@@ -1,6 +1,6 @@
 # ROTOCAD
 
-![[Screenshot 2026-09-12 052441.png]]
+![[gear.png]]
 
 
 Hi :)

@@ -1,6 +1,6 @@
 # ROTOCAD
 
-![[gear.png]]
+![ROTOCAD Gear](stuff/gear.png)
 
 
 Hi :)
